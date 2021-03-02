@@ -30,6 +30,7 @@ ol {
     padding-bottom: 12px;
 }
 
+/* style the image captions */
 figcaption {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: red;
