@@ -15,6 +15,7 @@ body{
     background-color: saddlebrown;
 }
 
+/* style the unordered list */
 ul {
     font-style: italic;
     border: 2px solid red;
