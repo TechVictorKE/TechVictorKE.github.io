@@ -18,8 +18,8 @@ body{
 ul {
     font-style: italic;
     border: 2px solid red;
-    padding-top: 20px;
-    padding-bottom: 20px;
+    padding-top: 12px;
+    padding-bottom: 12px;
 }
 
 ol {
