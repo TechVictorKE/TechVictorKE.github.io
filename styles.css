@@ -23,6 +23,7 @@ ul {
     padding-bottom: 12px;
 }
 
+/* style the ordered list */
 ol {
     border: 2px dotted red;
     padding-top: 12px;
